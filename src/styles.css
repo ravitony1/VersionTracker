@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: "Avenir Next", sans-serif;
+  text-align: center;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.MuiTableCell-root {
+  border-bottom-style: none;
+  white-space: pre;
+}
+
+.MuiTableCell-head {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.MuiFormHelperText-root {
+  color: #ef5350 !important;
+  width: 150px;
+  white-space: normal;
+}
